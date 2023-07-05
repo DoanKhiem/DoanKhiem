@@ -6,8 +6,8 @@
 
 I am a Final Year Software Engineering Student at Hanoi University of Natural Resources and Environment. I love Machine Learning and trying to find more about Full Stack Web Development
 
-- 🔭 I’m currently working on TNHH VKX
-- 🌱 I’m currently learning Framework Laravel
+- 🔭 I’m currently working on TNHH TownsoftVina
+- 🌱 I’m currently working with Framework Laravel and VueJs
 
 <h4 align="center">Profile stats :musical_keyboard:</h4>
 

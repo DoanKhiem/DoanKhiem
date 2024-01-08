@@ -14,6 +14,12 @@ I love Machine Learning and trying to find more about Full Stack Web Development
     <img align="center" src="https://github-readme-stats-one-bice.vercel.app/api?username=DoanKhiem&count_private=true&theme=tokyonight&show_icons=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" height="185px" /> 
     <img align="center" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=DoanKhiem&layout=compact&langs_count=8&theme=tokyonight&role=OWNER,COLLABORATOR" height="185px" />
 </div>
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/DoanKhiem/count.svg" />
+</p>
+
 <h2 align="center">You can contact me at :alien:</h2>
 
 <p align="center">
